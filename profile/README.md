@@ -31,7 +31,7 @@ private access only.
 | [telegram-bot](../telegram-bot) | notifications and filters |
 | [frontend](../frontend) | order feed, filters, charts |
 | [infrastructure](../infrastructure) | docker, nginx, configs |
-| [docs](../docs) | architecture and conventions |
+| [documentation](../documentation) | architecture and conventions |
 
 ---
 > 🚧 work in progress — sprint 1
